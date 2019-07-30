@@ -1,4 +1,5 @@
 # Zdog-Watermelon
-3D Watermelon character created in Zdog
+3D Watermelon character created in [Zdog](https://zzz.dog/)
 
-https://zzz.dog/
+[DEMO HERE](https://clarkenicol.github.io/Zdog-Watermelon/)
+
